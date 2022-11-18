@@ -1,0 +1,88 @@
+const TableData = [
+  {
+    id: "1",
+    name: "Tiger Nixon",
+    position: "System Architect",
+    office: "Edinburgh",
+    age: "61",
+  },
+  {
+    id: "2",
+    name: "Tiger Nixon",
+    position: "System Architect",
+    office: "Edinburgh",
+    age: "61",
+  },
+  {
+    id: "3",
+    name: "Tiger Nixon",
+    position: "System Architect",
+    office: "Edinburgh",
+    age: "61",
+  },
+  {
+    id: "4",
+    name: "Tiger Nixon",
+    position: "System Architect",
+    office: "Edinburgh",
+    age: "61",
+  },
+  {
+    id: "5",
+    name: "Tiger Nixon",
+    position: "System Architect",
+    office: "Edinburgh",
+    age: "61",
+  },
+  {
+    id: "6",
+    name: "Tiger Nixon",
+    position: "System Architect",
+    office: "Edinburgh",
+    age: "61",
+  },
+  {
+    id: "7",
+    name: "Tiger Nixon",
+    position: "System Architect",
+    office: "Edinburgh",
+    age: "61",
+  },
+  {
+    id: "8",
+    name: "Tiger Nixon",
+    position: "System Architect",
+    office: "Edinburgh",
+    age: "61",
+  },
+  {
+    id: "9",
+    name: "Tiger Nixon",
+    position: "System Architect",
+    office: "Edinburgh",
+    age: "61",
+  },
+  {
+    id: "10",
+    name: "Tiger Nixon",
+    position: "System Architect",
+    office: "Edinburgh",
+    age: "61",
+  },
+  {
+    id: "11",
+    name: "Tiger Nixon",
+    position: "System Architect",
+    office: "Edinburgh",
+    age: "61",
+  },
+  {
+    id: "12",
+    name: "Tiger Nixon",
+    position: "System Architect",
+    office: "Edinburgh",
+    age: "61",
+  },
+];
+
+export default TableData;

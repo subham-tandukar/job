@@ -1,0 +1,12 @@
+@media (max-width: 639px) {
+    aside {
+      width: 0;
+    }
+    article {
+      width: calc(100% - 0px);
+      padding-left: 0;
+    }
+    article .nav {
+      width: calc(100% - 0px);
+    }
+  }
